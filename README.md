@@ -8,11 +8,11 @@ My coursework at University has honed my skills in gaining a strong foundation i
 ## Skills
 
 💬 Good understanding and foundation of programming languages, applications and software, tools, and frameworks.
--     Database Management:                    Oracle SQL, MySQL, MongoDB)
--     Programming Languages:                  C++, C, Python, Java)
--     Web Development:                        XML, HTML5, CSS, SCSS, Less, JavaScript, jQuery, Ajax, Node.js, Express.js)
--     Operating Systems:                      Windows, Linux/Unix)
--     Other Tools and Platforms:              Git, Gt Hub, Wireshark, Visual Studio, Visual Studio Code, Net Beans, MS Office, Heroku, Microsoft Azure, Microsoft Project, etc.)
+-     Database Management:                    Oracle SQL, MySQL, MongoDB
+-     Programming Languages:                  Java
+-     Web Development:                        XML, HTML5, CSS, SCSS, Less, JavaScript, jQuery, Ajax, Node.js, Express.js
+-     Operating Systems:                      Windows, Linux/Unix
+-     Other Tools and Platforms:              Git, Gt Hub, Wireshark, Visual Studio, Visual Studio Code, Net Beans, MS Office, Heroku, Microsoft Azure, Microsoft Project, etc.
 
 ## Contact
 
