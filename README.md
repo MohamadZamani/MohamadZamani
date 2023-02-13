@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I mm Mohamad Zamani
+## I am Mohamad Zamani
 
 - 🔭A highly motivated Computer Student, Technology Fan, Programming, Linux and IT lover, with a passion for creating and solving problems through technology.
 
