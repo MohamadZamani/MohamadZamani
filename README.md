@@ -2,8 +2,8 @@
 
 ## My name is Mohamad Zamani
 
-🔭A highly motivated Computer Student, Technology Fan, Programming, Linux and IT lover, with a passion for creating and solving problems through technology.
-My coursework at University has honed my skills in gaining a strong foundation in several programming languages, network concepts, software, and hardware with the purpose of developing, analyzing, and applying technical knowledge to real-world situations. Additionally, my experience in a computer company taught me how to work effectively in a team environment and deliver high-quality results to provide satisfaction.
+🔭
+My coursework at University and College has honed my skills in gaining a strong foundation in several programming languages, network concepts, software, and hardware with the purpose of developing, analyzing, and applying technical knowledge to real-world situations. Additionally, my experience in a computer company taught me how to work effectively in a team environment and deliver high-quality results to provide satisfaction.
 
 ## Skills
 
