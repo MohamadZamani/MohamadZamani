@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-## Skills
+💬 Briefly About Me:
 
-💬 About Me:
-      Operating Systems:                      IBM i, Windows, Linux/Unix
+-     Operating Systems:                      IBM i, Windows, Linux/Unix
 -     Database Management:                    Oracle SQL, MySQL, MongoDB
 -     Programming Languages:                  Java
 -     Web Development:                        XML, HTML5, CSS, SCSS, Less, JavaScript, jQuery, Ajax, Node.js, Express.js
