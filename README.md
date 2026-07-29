@@ -2,7 +2,7 @@
 
 💬 Briefly About Me:
 
-Will be filled later
+Will be updated soon
 
 ## Contact
 
